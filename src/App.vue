@@ -6,4 +6,7 @@
 </template>
 
 <style lang="less">
+#app{
+  background-color:@main-color;
+}
 </style>
